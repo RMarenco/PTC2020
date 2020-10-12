@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: bc6fe1ea1e330cf4cb8141ff031facb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7675138782615566499
+    second: FMidLeftBack_0
+  - first:
+      213: -8168904032037757096
+    second: FMidLeftBack_1
+  - first:
+      213: -605861765082432980
+    second: FMidLeftBack_2
+  - first:
+      213: 1097827865060126212
+    second: FMidLeftBack_3
+  - first:
+      213: -1421814117368278628
+    second: FMidLeftBack_4
+  - first:
+      213: 1290339550757590998
+    second: FMidLeftBack_5
+  - first:
+      213: -6030869952140522849
+    second: FMidLeftBack_6
+  - first:
+      213: 8817368208763102702
+    second: FMidLeftBack_7
+  - first:
+      213: 2882493944046032314
+    second: FMidLeftBack_8
+  - first:
+      213: -5478723086815657106
+    second: FMidLeftBack_9
+  - first:
+      213: 5622964690078767964
+    second: FMidLeftBack_10
+  - first:
+      213: 8304734017489273616
+    second: FMidLeftBack_11
+  - first:
+      213: -3970610924798907938
+    second: FMidLeftBack_12
+  - first:
+      213: 6803208268922148727
+    second: FMidLeftBack_13
+  - first:
+      213: 5746038635225996862
+    second: FMidLeftBack_14
+  - first:
+      213: -7387681982119311655
+    second: FMidLeftBack_15
+  - first:
+      213: 8932385163244531291
+    second: FMidLeftBack_16
+  - first:
+      213: -6100141572490584199
+    second: FMidLeftBack_17
+  - first:
+      213: 7712970027261767291
+    second: FMidLeftBack_18
+  - first:
+      213: -1780318114939275765
+    second: FMidLeftBack_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FMidLeftBack_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 325
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da46a8b88cd09347b533860c83864aa
+      internalID: -7675138782615566499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 327
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc44c3506d8d4448bb89e96898a2c5d
+      internalID: -8168904032037757096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 331
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c8fc73443e18d46b8feb5fe7ebeb02
+      internalID: -605861765082432980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 322
+        width: 50
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba244f7648317554d99f7bd2f8c9b240
+      internalID: 1097827865060126212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 325
+        width: 82
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1788d2dce66de384da85f0ccd5b3a1d2
+      internalID: -1421814117368278628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 325
+        width: 152
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bace3dfd55ff34fb9ed48ca20bcbb7
+      internalID: 1290339550757590998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 317
+        width: 172
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bc16b06b2ba1d48bf0813790abad67
+      internalID: -6030869952140522849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 335
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2b5b0e21fe40141b2a37410264ff13
+      internalID: 8817368208763102702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_8
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 307
+        width: 80
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982110a40b7c0a4b85594d3c8b6c395
+      internalID: 2882493944046032314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 174
+        width: 141
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04eabeb32756d6428f166b328ccf38a
+      internalID: -5478723086815657106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 191
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b255545fa9591647a71a9b5898d9d09
+      internalID: 5622964690078767964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 190
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42222eccda393b43aed9a45b31878d6
+      internalID: 8304734017489273616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 161
+        width: 70
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb9c984afc4374ba37e7951e7f1485
+      internalID: -3970610924798907938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 145
+        width: 67
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc71db32c050447a8902d9a8084781
+      internalID: 6803208268922148727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 172
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef2b81d0f2e7d47a5a92b81f85ad47
+      internalID: 5746038635225996862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_15
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 190
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e9992aa986cd43b0104f0b9a4bd6c
+      internalID: -7387681982119311655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_16
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 187
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbbc1026b4260c47b79ed9bb8991e64
+      internalID: 8932385163244531291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_17
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 185
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1051199071dc994e853de2ab2dda729
+      internalID: -6100141572490584199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 26
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82159fb2af2e94bb1ddc8800803d75
+      internalID: 7712970027261767291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidLeftBack_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 26
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d238da8ee5ab4f240871e22818a93c9d
+      internalID: -1780318114939275765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

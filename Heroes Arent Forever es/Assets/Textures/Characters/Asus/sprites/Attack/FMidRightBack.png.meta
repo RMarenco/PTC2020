@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 606ff39d652818a4e99ba1832e5d058c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 23888585523382749
+    second: FMidRightBack_0
+  - first:
+      213: -7204641036286558426
+    second: FMidRightBack_1
+  - first:
+      213: -8560552215472703648
+    second: FMidRightBack_2
+  - first:
+      213: -4463892206444182622
+    second: FMidRightBack_3
+  - first:
+      213: -4065465662512595568
+    second: FMidRightBack_4
+  - first:
+      213: -4655861225215913465
+    second: FMidRightBack_5
+  - first:
+      213: 8066903006844295275
+    second: FMidRightBack_6
+  - first:
+      213: -3974632308815119757
+    second: FMidRightBack_7
+  - first:
+      213: -5768454698979028349
+    second: FMidRightBack_8
+  - first:
+      213: 760302929689567997
+    second: FMidRightBack_9
+  - first:
+      213: 5433318050292238613
+    second: FMidRightBack_10
+  - first:
+      213: -4085734659966948
+    second: FMidRightBack_11
+  - first:
+      213: 8550346610449262745
+    second: FMidRightBack_12
+  - first:
+      213: 8008589253975397379
+    second: FMidRightBack_13
+  - first:
+      213: -7248473687174004000
+    second: FMidRightBack_14
+  - first:
+      213: -2584258134975878902
+    second: FMidRightBack_15
+  - first:
+      213: -3594236332337670455
+    second: FMidRightBack_16
+  - first:
+      213: 6756367045135303324
+    second: FMidRightBack_17
+  - first:
+      213: -4855821895290039674
+    second: FMidRightBack_18
+  - first:
+      213: 3730313959588915176
+    second: FMidRightBack_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8.8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FMidRightBack_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 350
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d5b70153c899c48928ef3035a5331b
+      internalID: 23888585523382749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 348
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece07b34e37b3b49a7fc5a26980bc20
+      internalID: -7204641036286558426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 346
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c016a733fd6e7a48a3fbaab65748404
+      internalID: -8560552215472703648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 341
+        width: 171
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49753e5facede649b43922902053f3f
+      internalID: -4463892206444182622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 342
+        width: 145
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0205d78dd72e4292f5214183c4e7e
+      internalID: -4065465662512595568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_5
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 325
+        width: 136
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2b5c627ef66d4897953e377629b14
+      internalID: -4655861225215913465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_6
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 305
+        width: 102
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1f34ef91328942918e588badc8a13
+      internalID: 8066903006844295275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_7
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 320
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e1ac147dc38246b726b6ef016453a
+      internalID: -3974632308815119757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_8
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 302
+        width: 46
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8ee2b7ef120054bb70e2e49837dca0
+      internalID: -5768454698979028349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8cdd2dc8603414692611717411d2df
+      internalID: 760302929689567997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 188
+        width: 155
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e129e104ce5c419e5c2d1ac9a3971
+      internalID: 5433318050292238613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 188
+        width: 151
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599bf856b71ae74694df6ca168fdf1d
+      internalID: -4085734659966948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 180
+        width: 171
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bbb11e66dc60b419b986b6e6f33360
+      internalID: 8550346610449262745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 149
+        width: 143
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38f4622ff66eeb4f9ee2cf6e31cd78b
+      internalID: 8008589253975397379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_14
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 184
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46504033ba85f3d44a900abe798e07a4
+      internalID: -7248473687174004000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 189
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646f8c82c5e4ce4fa47659a82e91947
+      internalID: -2584258134975878902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_16
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 190
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed4560c81a3acd4ab8f24998a52f202
+      internalID: -3594236332337670455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_17
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 190
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca5404e69af9d143b2fb6294c974bf1
+      internalID: 6756367045135303324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd3892bc1eee804da35ae5b7e8bf445
+      internalID: -4855821895290039674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FMidRightBack_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 31
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d975054cf6571145aceb89646eb4024
+      internalID: 3730313959588915176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

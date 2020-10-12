@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: cb909b8983acccf4185dc3fdf53cb0fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4256564607501529948
+    second: Sin nombreMidRightBack_0
+  - first:
+      213: -8447827855620869878
+    second: Sin nombreMidRightBack_1
+  - first:
+      213: 8031452089721749054
+    second: Sin nombreMidRightBack_2
+  - first:
+      213: 3658436388806404601
+    second: Sin nombreMidRightBack_3
+  - first:
+      213: -445135854655566206
+    second: Sin nombreMidRightBack_4
+  - first:
+      213: -6153412112902520875
+    second: Sin nombreMidRightBack_5
+  - first:
+      213: -4677765147303755634
+    second: Sin nombreMidRightBack_6
+  - first:
+      213: 1260568551480902387
+    second: Sin nombreMidRightBack_7
+  - first:
+      213: -4391293176816169109
+    second: Sin nombreMidRightBack_8
+  - first:
+      213: 7904844337191892579
+    second: Sin nombreMidRightBack_9
+  - first:
+      213: -1003854435346231439
+    second: Sin nombreMidRightBack_10
+  - first:
+      213: -6515048685991163255
+    second: Sin nombreMidRightBack_11
+  - first:
+      213: -427872712304070144
+    second: Sin nombreMidRightBack_12
+  - first:
+      213: -5402821068991320251
+    second: Sin nombreMidRightBack_13
+  - first:
+      213: 1882068927570583033
+    second: Sin nombreMidRightBack_14
+  - first:
+      213: 953290342966044388
+    second: Sin nombreMidRightBack_15
+  - first:
+      213: 6987380662546566414
+    second: Sin nombreMidRightBack_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94dac09070dad34887a6806c10d35d4
+      internalID: 4256564607501529948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 315
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ddd512e0a08034f9ee96442d63a3c0
+      internalID: -8447827855620869878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 314
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac8fc4fee5df8441b35a1d012319728
+      internalID: 8031452089721749054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 313
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907cf4491740914fb66c551071c36c1
+      internalID: 3658436388806404601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 313
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d1e9c36ad382c4a9cbce6d5f487d92
+      internalID: -445135854655566206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 217
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e195dd75910544e83d3761a94ed7ed
+      internalID: -6153412112902520875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 218
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d75b5af015d7ad478fe9ef5f19774f9
+      internalID: -4677765147303755634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347edd2d807aebf45b8807ea6f440348
+      internalID: 1260568551480902387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 223
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace8c61a5922a941a049e318dce15f4
+      internalID: -4391293176816169109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 221
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f807b04ac8ba31469c59c419a0048ad
+      internalID: 7904844337191892579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 119
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da405378eed2c94a92fffbdccd81c86
+      internalID: -1003854435346231439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 118
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c536eb5fbc384eace4acd23b14c2f
+      internalID: -6515048685991163255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 114
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3645b5b2ed9bde418494bc5cc4c6e5f
+      internalID: -427872712304070144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 110
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b643f026a7e05b458be80ca8468f0f9
+      internalID: -5402821068991320251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 109
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8268d127f4396e44a92be52e7336c524
+      internalID: 1882068927570583033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c9c539904f6544a1f7518a8264d95
+      internalID: 953290342966044388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRightBack_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba756fbbfff347c49a95e2a625c09878
+      internalID: 6987380662546566414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

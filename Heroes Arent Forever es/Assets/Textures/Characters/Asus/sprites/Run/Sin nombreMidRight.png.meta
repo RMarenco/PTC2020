@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 80ed7b533f4f2824dbbdc472965e0c3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2227767348567434828
+    second: Sin nombreMidRight_0
+  - first:
+      213: 7775183693641633268
+    second: Sin nombreMidRight_1
+  - first:
+      213: 1374270342491723136
+    second: Sin nombreMidRight_2
+  - first:
+      213: -2771512855432132181
+    second: Sin nombreMidRight_3
+  - first:
+      213: 1200258025265170668
+    second: Sin nombreMidRight_4
+  - first:
+      213: 3816605205190925753
+    second: Sin nombreMidRight_5
+  - first:
+      213: 596408811339674774
+    second: Sin nombreMidRight_6
+  - first:
+      213: 6244096146338339804
+    second: Sin nombreMidRight_7
+  - first:
+      213: -8285418746797312094
+    second: Sin nombreMidRight_8
+  - first:
+      213: -7031852787248922573
+    second: Sin nombreMidRight_9
+  - first:
+      213: -8556642460565830323
+    second: Sin nombreMidRight_10
+  - first:
+      213: -4812707087566490489
+    second: Sin nombreMidRight_11
+  - first:
+      213: 5818078292928678401
+    second: Sin nombreMidRight_12
+  - first:
+      213: 6566751110164073401
+    second: Sin nombreMidRight_13
+  - first:
+      213: -7879827698289478818
+    second: Sin nombreMidRight_14
+  - first:
+      213: -1089116912457555567
+    second: Sin nombreMidRight_15
+  - first:
+      213: -5857831583215322558
+    second: Sin nombreMidRight_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9.2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sin nombreMidRight_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 315
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f98587c690b0f41abff590023bdc87
+      internalID: -2227767348567434828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 314
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e37fce786303a40bcd8e1c37a999b4
+      internalID: 7775183693641633268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 313
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0eeedc2d03b754eb269328174db179
+      internalID: 1374270342491723136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 312
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f0fff1c9c510498c8b5f73172728c
+      internalID: -2771512855432132181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 309
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0d16c2a6116ae48b361f9de70c6262
+      internalID: 1200258025265170668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 208
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7991165f3df506f45a8ed69e062eb608
+      internalID: 3816605205190925753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 210
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c40e1325fab524db612be846b10d10
+      internalID: 596408811339674774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 212
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4870a358c260e4299312c47e9bab77
+      internalID: 6244096146338339804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 214
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1376671199fecfe4ba6adeb6377afc3e
+      internalID: -8285418746797312094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 212
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba2a58d5b2a8344f8f138cc20bac1a9
+      internalID: -7031852787248922573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dc2bd8b91047a47b0a1c64f9defb2f
+      internalID: -8556642460565830323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 106
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c3e2f2da992040aa96d34db9cfe9f
+      internalID: -4812707087566490489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 107
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98385c299b92a6e4fa57f3ed981f5d2b
+      internalID: 5818078292928678401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 114
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af78425390eead45ab57ca301044d8f
+      internalID: 6566751110164073401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 115
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ce62e1d51bac46896662e80618a80
+      internalID: -7879827698289478818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e17c49c129b4c48847ceaf23efc92a
+      internalID: -1089116912457555567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombreMidRight_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 18
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e618a257ad15469369de5480eb6f9
+      internalID: -5857831583215322558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: af86b74babea80949b22f17d4b0bf659
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveMain.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveEmpty.unity
+    guid: db8dcf11de1c5104e90425fb312d9b8b
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveEmpty1.unity
+    guid: 2040759f21d821e44a755ee47424f686
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveEmpty2.unity
+    guid: 978a3e9bbfc35554ab8913a4f625d6f3
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveEnemy1.unity
+    guid: 5131c8c16f6bc8b4caff4bc714d254a8
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveEnemy2.unity
+    guid: e0ef0af9b247955489f2b2d309e4d145
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveStart.unity
+    guid: 04cbd90108c691946840a1a96ee9b653
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveTreasure.unity
+    guid: 7076d550d4cdee2449801ce780243b24
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Cave/CaveEnd.unity
+    guid: 3877890c97bc15242a0acf47f2287c42
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveEmpty.unity
+    guid: ffc54b21b24672b4d916c4228f30778e
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveEmpty1.unity
+    guid: f9b713b1541a6864bb64559ca8327337
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveEmpty2.unity
+    guid: 0fb125e5cbc0ce543ad99fc0ae6ba689
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveEnd.unity
+    guid: 7a6957d792019284997bd479bc828629
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveEnemy1.unity
+    guid: a6dde346cc8da5f4aa6c6e1a2755ac28
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveEnemy2.unity
+    guid: 1ccc7a0b14b202f45913345adc644d32
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveEnemy3.unity
+    guid: 9f258771a8e2c534a8390f6ce8885056
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveEnemy4.unity
+    guid: 33fd0c9f265445441b4cb6310cc40bb0
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveMain.unity
+    guid: 11353c9749184744d804c6cfa72d57ac
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveStart.unity
+    guid: 7e686db33bb75974fa6082639a37041e
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Deep Caves/DeepCaveTreasure.unity
+    guid: df2bf974b9fd00e4cbe9a6ba8aa09261
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleEmpty.unity
+    guid: 0f69b1dd72cb6b04d83dcb5aa392abef
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleEmpty1.unity
+    guid: 7aaa0f833571bb244bb58feed4eca04a
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleEmpty2.unity
+    guid: 9627099c643eb5b4b9c8834fe86df05a
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleEnd.unity
+    guid: 6f0975989845e3645a221124c47d6152
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleEnemy1.unity
+    guid: 7263f3e1385bf8e41aa218266423d11c
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleEnemy2.unity
+    guid: 5b719d8752af52242ad8466d87cbd2af
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleEnemy3.unity
+    guid: 5b9132fbfb2956d42915c5b068671a72
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleEnemy4.unity
+    guid: e5aa7ae075649824387f8b0ad7a217c7
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleMain.unity
+    guid: b51a0a80797bed64e9c92c55ecab21ea
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleStart.unity
+    guid: 6a9b3613907d79348bf245d740aa4f02
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Castle/CastleTreasure.unity
+    guid: 56bef997f693a844ea54c1c1c74954d4
+  m_configObjects: {}
